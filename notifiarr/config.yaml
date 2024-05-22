@@ -15,7 +15,8 @@ arch:
   - i386
 map:
   - share:rw
-  - "config:rw"
+  - config:rw
+  - addon_config:rw
 ports:
   5454/tcp: 5454
 ports_description:
