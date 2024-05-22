@@ -1,4 +1,4 @@
-# Example Home Assistant add-on repository
+# Notifiarr Home Assistant add-on repository
 
 This is an Addon of the unified client for Notifiarr.com. The client enables content requests from Media Bot in your Discord Server and also provides reports for Plex usage and system health among many other features.
 
