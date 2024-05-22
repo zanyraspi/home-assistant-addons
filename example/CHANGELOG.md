@@ -1,1 +1,1 @@
-See [https://github.com/openspeedtest/Docker-Image/releases](https://hub.docker.com/r/golift/notifiarr/tags)
+See [https://hub.docker.com/r/golift/notifiarr/tags](https://hub.docker.com/r/golift/notifiarr/tags)
