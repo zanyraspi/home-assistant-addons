@@ -6,7 +6,7 @@ _Notifiarr add-on._
 
 This addon is the unified client for Notifiarr.com. The client enables content requests from Media Bot in your Discord Server and also provides reports for Plex usage and system health among many other features.
 
-See https://hub.docker.com/r/openspeedtest/latest
+See https://notifiarr.wiki
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
