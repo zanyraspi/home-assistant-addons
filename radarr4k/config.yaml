@@ -1,6 +1,6 @@
-name: Radarr
+name: Radarr 4K
 version: 0.5.0
-slug: radarr
+slug: radarr4k
 description: Movie organizer/manager for usenet and torrent users
 url: https://github.com/hassio-addons/addon-radarr/tree/main/README.md
 codenotary: codenotary@frenck.dev
