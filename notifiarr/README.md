@@ -6,6 +6,8 @@ _Notifiarr add-on._
 
 This addon is the unified client for Notifiarr.com. The client enables content requests from Media Bot in your Discord Server and also provides reports for Plex usage and system health among many other features.
 
+This add-on will start and create the config file in /config path. The default username is 'admin' and password is available in the log or in /config/notifiarr.conf
+
 See https://notifiarr.wiki
 
 ![Supports aarch64 Architecture][aarch64-shield]
