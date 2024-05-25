@@ -35,6 +35,17 @@ This addon is the unified client for Notifiarr.com. The client enables content r
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 
+ ### [Radarr](./addon-radarr)
+Movie organizer/manager for usenet and torrent users
+
+![Supports armhf Architecture][radarr-armhf-shield]
+![Supports armv7 Architecture][radarr-armv7-shield]
+![Supports aarch64 Architecture][radarr-aarch64-shield]
+![Supports amd64 Architecture][radarr-amd64-shield]
+![Supports i386 Architecture][radarr-i386-shield]
+
+
+
 <!--
 
 Notes to developers after forking or using the github template feature:
