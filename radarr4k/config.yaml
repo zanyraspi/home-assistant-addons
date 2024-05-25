@@ -15,5 +15,5 @@ map:
 - share:rw
 - media:rw
 ports:
-  17879/tcp: 17878
+  17878/tcp: 17878
 image: ghcr.io/hassio-addons/radarr/{arch}
