@@ -4,7 +4,7 @@ slug: radarr4k
 description: Movie organizer/manager for usenet and torrent users
 url: https://github.com/hassio-addons/addon-radarr/tree/main/README.md
 codenotary: codenotary@frenck.dev
-webui: http://[HOST]:[PORT:7879]
+webui: http://[HOST]:[PORT:17878]
 init: false
 arch:
 - aarch64
@@ -15,5 +15,5 @@ map:
 - share:rw
 - media:rw
 ports:
-  7879/tcp: 7879
+  17879/tcp: 17878
 image: ghcr.io/hassio-addons/radarr/{arch}
