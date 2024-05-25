@@ -38,11 +38,12 @@ This addon is the unified client for Notifiarr.com. The client enables content r
  ### [Radarr](./addon-radarr)
 Movie organizer/manager for usenet and torrent users
 
-![Supports armhf Architecture][radarr-armhf-shield]
-![Supports armv7 Architecture][radarr-armv7-shield]
-![Supports aarch64 Architecture][radarr-aarch64-shield]
-![Supports amd64 Architecture][radarr-amd64-shield]
-![Supports i386 Architecture][radarr-i386-shield]
+![Supports aarch64 Architecture][aarch64-shield]
+![Supports amd64 Architecture][amd64-shield]
+![Supports armhf Architecture][armhf-shield]
+![Supports armv7 Architecture][armv7-shield]
+![Supports i386 Architecture][i386-shield]
+
 
 
 
