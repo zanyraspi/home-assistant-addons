@@ -30,7 +30,7 @@ This addon is the unified client for Notifiarr.com. The client enables content r
 ![Supports i386 Architecture][i386-shield]
 
  ### [Radarr](./radarr4k)
-Movie organizer/manager for usenet and torrent users. Custom Addon to add a duplicate instance of Radarr to handle 4K content download.
+Radarr is a movie collection manager for Usenet and BitTorrent users. This is a custom Addon to add a duplicate instance of Radarr to handle 4K content download.
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
@@ -40,7 +40,7 @@ Movie organizer/manager for usenet and torrent users. Custom Addon to add a dupl
 
 
  ### [Sonarr](./sonarr4k)
-TV organizer/manager for usenet and torrent users. Custom Addon to add a duplicate instance of Sonarr to handle 4K content download.
+Sonarr is a PVR for Usenet and BitTorrent users. This is a custom Addon to add a duplicate instance of Sonarr to handle 4K content download.
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
