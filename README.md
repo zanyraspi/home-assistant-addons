@@ -1,8 +1,6 @@
-# Notifiarr Home Assistant add-on repository
+# ZanY's Home Assistant add-on repository
 
 This is an Addon of the unified client for Notifiarr.com. The client enables content requests from Media Bot in your Discord Server and also provides reports for Plex usage and system health among many other features.
-
-Add-on documentation: <https://github.com/Notifiarr/notifiarr>
 
 [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fzanyraspi%2Fhome-assistant-addons)
 
@@ -18,7 +16,7 @@ This repository contains the following add-ons
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
 
-_Example add-on to use as a blueprint for new add-ons._
+Notifiarr Client documentation: <https://notifiarr.wiki>
 
 <!--
 
