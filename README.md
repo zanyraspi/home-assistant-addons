@@ -29,7 +29,7 @@ This addon is the unified client for Notifiarr.com. The client enables content r
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
 
- ### [Radarr4K](./radarr4k)
+ ### [Radarr](./radarr4k)
 Movie organizer/manager for usenet and torrent users. Custom Addon to add a duplicate instance of Radarr to handle 4K content download.
 
 ![Supports aarch64 Architecture][aarch64-shield]
