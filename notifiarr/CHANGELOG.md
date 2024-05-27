@@ -2,6 +2,8 @@
 
 ## 0.7.1 May 26, 2024
 
+https://github.com/Notifiarr/notifiarr/releases/tag/v0.7.1
+
 - Docker images are now built in GitHub actions and served from GitHub Container Registry.
 - _Note: Images (without a rate limit) are still built by and available on Docker Hub._
 
