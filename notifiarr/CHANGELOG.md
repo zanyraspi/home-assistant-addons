@@ -2,7 +2,8 @@
 
 ## 0.7.1 May 26, 2024
 
--
+- Docker images are now built in GitHub actions and served from GitHub Container Registry.
+- Note: Images (without a rate limit) are still built by and available on Docker Hub.
 
 ## 0.7.0 (Initial HAOS Addon Release)
 
