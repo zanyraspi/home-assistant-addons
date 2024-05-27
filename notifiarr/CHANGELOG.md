@@ -1,5 +1,9 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
 
+## v0.7.1 May 26, 2024
+
+-
+
 ## 0.7.0 (Initial HAOS Addon Release)
 
 - Make Plex scrobble web hook more useful.
