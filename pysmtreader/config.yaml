@@ -6,6 +6,13 @@ url: "https://github.com/scadaguru/pysmtreader"
 image: scadaguru/pysmtreader
 startup: application
 init: false
+arch:
+  - armhf
+  - armv7
+  - aarch64
+  - amd64
+  - arm64
+  - i386
 map:
   - share:rw
   - config:rw
