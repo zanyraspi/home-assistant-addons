@@ -1,5 +1,5 @@
 name: pysmtreader
-version: "0.1"
+version: "latest"
 slug: pysmtreader
 description: A Python application to poll your smart electric meter, this application uses an undocumented API for Smart Meter Texas
 url: "https://github.com/scadaguru/pysmtreader"
