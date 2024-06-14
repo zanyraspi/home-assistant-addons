@@ -1,0 +1,19 @@
+name: pysmtreader
+version: "0.1"
+slug: notifiarr
+description: A Python application to poll your smart electric meter, this application uses an undocumented API for Smart Meter Texas
+url: "https://github.com/scadaguru/pysmtreader"
+image: scadaguru/pysmtreader
+startup: application
+init: false
+arch:
+  - armhf
+  - armv7
+  - aarch64
+  - amd64
+  - i386
+map:
+  - share:rw
+  - config:rw
+  - addon_config:rw
+host_network: false
