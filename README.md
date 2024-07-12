@@ -25,25 +25,6 @@ This addon is the unified client for Notifiarr.com. The client enables content r
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
 
- ### [Radarr 4K](./radarr4k)
-Radarr is a movie collection manager for Usenet and BitTorrent users. This is a custom Addon to add a duplicate instance of Radarr to handle 4K content download.
-
-![Supports aarch64 Architecture][aarch64-shield]
-![Supports amd64 Architecture][amd64-shield]
-![Supports armhf Architecture][armhf-shield]
-![Supports armv7 Architecture][armv7-shield]
-![Supports i386 Architecture][i386-shield]
-
-
- ### [Sonarr 4K](./sonarr4k)
-Sonarr is a PVR for Usenet and BitTorrent users. This is a custom Addon to add a duplicate instance of Sonarr to handle 4K content download.
-
-![Supports aarch64 Architecture][aarch64-shield]
-![Supports amd64 Architecture][amd64-shield]
-![Supports armhf Architecture][armhf-shield]
-![Supports armv7 Architecture][armv7-shield]
-![Supports i386 Architecture][i386-shield]
-
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
