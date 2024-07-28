@@ -1,4 +1,21 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## v0.8.1 Jul 28, 2024
+
+https://github.com/Notifiarr/notifiarr/releases/tag/v0.8.1
+
+- Moves Windows auto updater to a trigger. It now works correctly in all scenarios.
+- Cleans up backup executables on Windows.
+- Makes X11 GUI support work correctly in Linux.
+- Adds an integrity check so we can identify custom clients.
+- Service check is now disabled when no services to check exist.
+- New trigger interval to send an up-check to the website.
+- Removes home-brew builds.
+- Nvidia-SMI path can now be removed in UI. App will correctly use PATH to find it.
+- Client was, and no longer, sends mysql auth info to the website.
+- Fixes a bug in Arch aur package maker than was putting files in /share instead of /usr/share.
+- Adds auto-start checkbox to GUI menu.
+
+
 ## v0.7.3 May 29, 2024
 
 https://github.com/Notifiarr/notifiarr/releases/tag/v0.7.3
