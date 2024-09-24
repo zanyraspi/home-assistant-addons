@@ -1,4 +1,14 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## v0.8.2 Sep 23, 2024
+
+https://github.com/Notifiarr/notifiarr/releases/tag/v0.8.2
+
+- Variable values may now be read from additional config files using filepath:
+- Adds HA stats to Synology snapshots.
+- HTTP assets are stored compressed.
+- HTTP responses are now served compressed.
+= Builds an Arch Linux package now.
+
 ## v0.8.1 Jul 28, 2024
 
 https://github.com/Notifiarr/notifiarr/releases/tag/v0.8.1
