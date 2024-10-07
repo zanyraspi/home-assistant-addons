@@ -1,4 +1,11 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+
+## v0.8.3 Oct 4, 2024
+
+https://github.com/Notifiarr/notifiarr/releases/tag/v0.8.2
+
+- Fixes a bug introduced in 0.8.2 that causes new installation to crash the UI.
+
 ## v0.8.2 Sep 23, 2024
 
 https://github.com/Notifiarr/notifiarr/releases/tag/v0.8.2
